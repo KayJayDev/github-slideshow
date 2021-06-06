@@ -1,6 +1,5 @@
 --
-layout: slide
-title: "Welcome to our second slide!"
+I'm excited to learn 
+I will be coding in not time
+I'm changing the came
 --
-Your text
-Use the arrow to go back!
